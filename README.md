@@ -1,4 +1,4 @@
 # My_data
 
-##メンバー
+# メンバー
 *testmember
